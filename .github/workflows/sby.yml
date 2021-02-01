@@ -1,17 +1,18 @@
-name: Gatsby Publish
+name: Deploy
 
 on:
   push:
     branches:
       - master
-
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
+    name: Deploy
     steps:
-      - uses: actions/checkout@v1
-      - uses: enriikke/gatsby-gh-pages-action@v2
+      - uses: actions/checkout@master
+      - name: Build site
+        run: 'gatsby build'
+      - name: Publish
+        uses: cloudflare/wrangler-action@1.2.0
         with:
-          access-token: ${{ secrets.ACCESS_TOKEN }}
-          deploy-branch: www
-          gatsby-args: --prefix-paths
+          apiToken: ${{ secrets.CF_API_TOKEN }}
