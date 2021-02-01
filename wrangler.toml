@@ -1,0 +1,13 @@
+name = "bio"
+type = "javascript"
+account_id = "79acc6c68003ac9ef4666a7a5ccf8761"
+workers_dev = true
+
+[env.production]
+workers_dev = false
+route = "https://a.idan.my.id/*"
+zone_id = "0f3ecab6c5e4f6d5d00d70aac8ccdc20"
+
+[site]
+bucket = "./public"
+entry-point = "workers-site"
