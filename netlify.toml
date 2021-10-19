@@ -1,35 +1,35 @@
 [[redirects]]
-  from = "/entah"
+  from = "https://wildanfauzy.com/entah"
   to = "https://blog.wildanfauzy.com/entah"
   status = 200
   force = true # COMMENT: ensure that we always redirect
 [[redirects]]
-  from = "/akhirnya-lulus-setelah-tujuh-tahun"
+  from = "https://wildanfauzy.com/akhirnya-lulus-setelah-tujuh-tahun"
   to = "https://blog.wildanfauzy.com/akhirnya-lulus-setelah-tujuh-tahun"
   status = 200
   force = true
 [[redirects]] 
-  from = "/gitolol-otaknya-konslet"
+  from = "https://wildanfauzy.com/gitolol-otaknya-konslet"
   to = "https://blog.wildanfauzy.com/gitolol-otaknya-konslet"
   status = 200
   force = true
 [[redirects]]
-  from = "/ketika-token-listrik-habis"
+  from = "https://wildanfauzy.com/ketika-token-listrik-habis"
   to = "https://blog.wildanfauzy.com/ketika-token-listrik-habis"
   status = 200
   force = true
 [[redirects]]
-  from = "/mengapa"
+  from = "https://wildanfauzy.com/mengapa"
   to = "https://blog.wildanfauzy.com/mengapa"
   status = 200
   force = true
 [[redirects]]
-  from = "/dikejar-deadline"
+  from = "https://wildanfauzy.com/dikejar-deadline"
   to = "https://blog.wildanfauzy.com/dikejar-deadline"
   status = 200
   force = true
 [[redirects]]
-  from = "/penghujung-bulan"
+  from = "https://wildanfauzy.com/penghujung-bulan"
   to = "https://blog.wildanfauzy.com/penghujung-bulan"
   status = 200
   force = true
