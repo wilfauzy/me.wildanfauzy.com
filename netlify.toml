@@ -1,6 +1,6 @@
 [[redirects]]
-  from = "/*"
-  to = "https://blog.wildanfauzy.com/$1"
+  from = "/entah"
+  to = "https://blog.wildanfauzy.com/entah"
   status = 200
   force = true # COMMENT: ensure that we always redirect
   headers = {X-From = "Netlify"}
