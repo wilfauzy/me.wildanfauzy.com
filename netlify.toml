@@ -3,26 +3,32 @@
   to = "https://blog.wildanfauzy.com/entah"
   status = 200
   force = true # COMMENT: ensure that we always redirect
+[[redirects]]
   from = "/akhirnya-lulus-setelah-tujuh-tahun"
   to = "https://blog.wildanfauzy.com/akhirnya-lulus-setelah-tujuh-tahun"
   status = 200
   force = true
+[[redirects]] 
   from = "/gitolol-otaknya-konslet"
   to = "https://blog.wildanfauzy.com/gitolol-otaknya-konslet"
   status = 200
   force = true
+[[redirects]]
   from = "/ketika-token-listrik-habis"
   to = "https://blog.wildanfauzy.com/ketika-token-listrik-habis"
   status = 200
   force = true
+[[redirects]]
   from = "/mengapa"
   to = "https://blog.wildanfauzy.com/mengapa"
   status = 200
   force = true
+[[redirects]]
   from = "/dikejar-deadline"
   to = "https://blog.wildanfauzy.com/dikejar-deadline"
   status = 200
   force = true
+[[redirects]]
   from = "/penghujung-bulan"
   to = "https://blog.wildanfauzy.com/penghujung-bulan"
   status = 200
