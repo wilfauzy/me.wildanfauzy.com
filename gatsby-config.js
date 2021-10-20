@@ -29,6 +29,12 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-react-helmet-canonical-urls`,
+      options: {
+        siteUrl: `https://wildanfauzy.com`,
+      },
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Aidan`,
@@ -52,13 +58,6 @@ module.exports = {
         ],
       },
     },
-     `gatsby-plugin-react-helmet`,
-  {
-    resolve: `gatsby-plugin-react-helmet-canonical-urls`,
-    options: {
-      siteUrl: `https://www.example.com`,
-    },
-  },
     `gatsby-plugin-offline`,
     `gatsby-plugin-netlify`,
     shouldAnalyseBundle && {
