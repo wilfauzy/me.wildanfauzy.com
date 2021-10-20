@@ -17,6 +17,12 @@ module.exports = {
     siteTitleAlt: `Wildan Fauzy`,
   },
   plugins: [
+    `gatsby-plugin-react-helmet`,
+    {
+    resolve: `gatsby-plugin-react-helmet-canonical-urls`,
+    options: {
+      siteUrl: `https://wildanfauzy.com`,
+    },
     {
       resolve: `@lekoarts/gatsby-theme-cara`,
       // See the theme's README for all available options
@@ -64,12 +70,3 @@ module.exports = {
     },
   ].filter(Boolean),
 }
-plugins: [
-  `gatsby-plugin-react-helmet`,
-  {
-    resolve: `gatsby-plugin-react-helmet-canonical-urls`,
-    options: {
-      siteUrl: `https://wildanfauzy.com`,
-    },
-  },
-]
