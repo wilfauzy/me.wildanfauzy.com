@@ -17,7 +17,6 @@ module.exports = {
     siteTitleAlt: `Wildan Fauzy`,
   },
   plugins: [
-    `gatsby-plugin-react-helmet`,
     {
     resolve: `gatsby-plugin-react-helmet-canonical-urls`,
     options: {
