@@ -18,11 +18,6 @@ module.exports = {
   },
   plugins: [
     {
-    resolve: `gatsby-plugin-react-helmet-canonical-urls`,
-    options: {
-      siteUrl: `https://wildanfauzy.com`,
-    },
-    {
       resolve: `@lekoarts/gatsby-theme-cara`,
       // See the theme's README for all available options
       options: {},
@@ -57,6 +52,13 @@ module.exports = {
         ],
       },
     },
+     `gatsby-plugin-react-helmet`,
+  {
+    resolve: `gatsby-plugin-react-helmet-canonical-urls`,
+    options: {
+      siteUrl: `https://www.example.com`,
+    },
+  },
     `gatsby-plugin-offline`,
     `gatsby-plugin-netlify`,
     shouldAnalyseBundle && {
