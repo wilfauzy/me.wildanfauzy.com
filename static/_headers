@@ -5,6 +5,6 @@
   X-Content-Type-Options": "nosniff
   Cross-Origin-Embedder-Policy": 'require-corp; report-to="default";
   Cross-Origin-Opener-Policy": 'same-site; report-to="default";
-  Cross-Origin-Resource-Policy": "same-site"
-  Content-Security-Policy: script-src 'self'
-  Feature-Policy: geolocation 'self' https://wildanfauzy.com; microphone 'none'
+  Cross-Origin-Resource-Policy": "same-site";
+  Content-Security-Policy: script-src "self";
+  Feature-Policy: geolocation "self" https://wildanfauzy.com; microphone "none"
