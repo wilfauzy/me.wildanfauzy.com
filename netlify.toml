@@ -7,7 +7,7 @@
     X-Content-Type-Options = "nosniff"
     Content-Security-Policy = '''
             default-src 'self';
-            style-src 'self' 'nonce';
+            style-src 'self' 'nonce-a9d09b55f2b66e00f4d27f8b453003e6';
             img-src 'self'
         '''
     Strict-Transport-Security = '''
