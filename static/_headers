@@ -6,5 +6,5 @@
   Cross-Origin-Embedder-Policy": 'require-corp; report-to="default";
   Cross-Origin-Opener-Policy": 'same-site; report-to="default";
   Cross-Origin-Resource-Policy": "same-site";
-  Content-Security-Policy: script-src "self";
-  Feature-Policy: geolocation "self" https://wildanfauzy.com; microphone "none"
+  Content-Security-Policy = "default-src 'none'; style-src 'self'; form-action 'self'; script-src 'self'; connect-src 'self'; img-src 'self'; base-uri 'self';"
+  Feature-Policy: geolocation "self";
