@@ -1,0 +1,8 @@
+/* 
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+  X-XSS-Protection": "0; mode=block
+  X-Frame-Options": "DENY
+  X-Content-Type-Options": "nosniff
+  Cross-Origin-Embedder-Policy": 'require-corp; report-to="default";
+  Cross-Origin-Opener-Policy": 'same-site; report-to="default";
+  Cross-Origin-Resource-Policy": "same-site";
