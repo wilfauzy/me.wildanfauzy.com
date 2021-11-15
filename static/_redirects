@@ -273,3 +273,5 @@
 /tags https://blog.wildanfauzy.com
 /categories https://blog.wildanfauzy.com
 /page/* https://blog.wildanfauzy.com
+/tags/* https://blog.wildanfauzy.com
+
