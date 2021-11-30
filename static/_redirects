@@ -1,24 +1,24 @@
-/entah                                 https://blog.wildanfauzy.com/entah
-/akhirnya-lulus-setelah-tujuh-tahun    https://blog.wildanfauzy.com/akhirnya-lulus-setelah-tujuh-tahun
-/gitolol-otaknya-konslet               https://blog.wildanfauzy.com/gitolol-otaknya-konslet
-/ketika-token-listrik-habis            https://blog.wildanfauzy.com/ketika-token-listrik-habis
-/mengapa                               https://blog.wildanfauzy.com/mengapa
-/dikejar-deadline                      https://blog.wildanfauzy.com/dikejar-deadline
-/penghujung-bulan                      https://blog.wildanfauzy.com/penghujung-bulan
-/kelaparan-terjebak-hujan              https://blog.wildanfauzy.com/kelaparan-terjebak-hujan
-/membuat-blog-hugo-di-firebase-hosting https://blog.wildanfauzy.com/membuat-blog-hugo-di-firebase-hosting
-/akibat-sering-mager                   https://blog.wildanfauzy.com/akibat-sering-mager
-/ke-pantai-tapi-ditutup                https://blog.wildanfauzy.com/ke-pantai-tapi-ditutup
-/adu-cepat-vercel-netlify-dan-cloudflare https://blog.wildanfauzy.com/adu-cepat-vercel-netlify-dan-cloudflare
-/hosting-blog-di-cloudflare            https://blog.wildanfauzy.com/hosting-blog-di-cloudflare
-/ngeblog-dengan-ghost-dan-gatsby       https://blog.wildanfauzy.com/ngeblog-dengan-ghost-dan-gatsby
-/kumpulan-wallpaper-xubuntu            https://blog.wildanfauzy.com/kumpulan-wallpaper-xubuntu
-/mencret-sialan                        https://blog.wildanfauzy.com/mencret-sialan
-/nasi-goreng-di-siang-hari             https://blog.wildanfauzy.com/nasi-goreng-di-siang-hari
-/perdido-de-amor                       https://blog.wildanfauzy.com/perdido-de-amor
-/obrolan-tengah-malam                  https://blog.wildanfauzy.com/obrolan-tengah-malam
-/pagi-pagi-hujan-lanjut-rebahan        https://blog.wildanfauzy.com/pagi-pagi-hujan-lanjut-rebahan
-/mencoba-menjadi-manusia-normal        https://blog.wildanfauzy.com/mencoba-menjadi-manusia-normal
+/entah                                 https://blog.wildanfauzy.com/entah 301
+/akhirnya-lulus-setelah-tujuh-tahun    https://blog.wildanfauzy.com/akhirnya-lulus-setelah-tujuh-tahun 301
+/gitolol-otaknya-konslet               https://blog.wildanfauzy.com/gitolol-otaknya-konslet 301
+/ketika-token-listrik-habis            https://blog.wildanfauzy.com/ketika-token-listrik-habis 301
+/mengapa                               https://blog.wildanfauzy.com/mengapa 301
+/dikejar-deadline                      https://blog.wildanfauzy.com/dikejar-deadline 301
+/penghujung-bulan                      https://blog.wildanfauzy.com/penghujung-bulan 301
+/kelaparan-terjebak-hujan              https://blog.wildanfauzy.com/kelaparan-terjebak-hujan 301
+/membuat-blog-hugo-di-firebase-hosting https://blog.wildanfauzy.com/membuat-blog-hugo-di-firebase-hosting 301
+/akibat-sering-mager                   https://blog.wildanfauzy.com/akibat-sering-mager 301
+/ke-pantai-tapi-ditutup                https://blog.wildanfauzy.com/ke-pantai-tapi-ditutup 301
+/adu-cepat-vercel-netlify-dan-cloudflare https://blog.wildanfauzy.com/adu-cepat-vercel-netlify-dan-cloudflare 301
+/hosting-blog-di-cloudflare            https://blog.wildanfauzy.com/hosting-blog-di-cloudflare 301
+/ngeblog-dengan-ghost-dan-gatsby       https://blog.wildanfauzy.com/ngeblog-dengan-ghost-dan-gatsby 301
+/kumpulan-wallpaper-xubuntu            https://blog.wildanfauzy.com/kumpulan-wallpaper-xubuntu 301
+/mencret-sialan                        https://blog.wildanfauzy.com/mencret-sialan 301
+/nasi-goreng-di-siang-hari             https://blog.wildanfauzy.com/nasi-goreng-di-siang-hari 301
+/perdido-de-amor                       https://blog.wildanfauzy.com/perdido-de-amor 301
+/obrolan-tengah-malam                  https://blog.wildanfauzy.com/obrolan-tengah-malam 301
+/pagi-pagi-hujan-lanjut-rebahan        https://blog.wildanfauzy.com/pagi-pagi-hujan-lanjut-rebahan 301
+/mencoba-menjadi-manusia-normal        https://blog.wildanfauzy.com/mencoba-menjadi-manusia-normal 301
 /hujan-turun-dengan-malas              https://blog.wildanfauzy.com/hujan-turun-dengan-malas
 /hari-kasih-sayang-katanya             https://blog.wildanfauzy.com/hari-kasih-sayang-katanya
 /motor-mogok-sedangkan-perut-lapar     https://blog.wildanfauzy.com/motor-mogok-sedangkan-perut-lapar
@@ -269,14 +269,3 @@
 /negeriku-hidupku                     https://blog.wildanfauzy.com/negeriku-hidupku
 /hello-world                          https://blog.wildanfauzy.com/hello-world
 /bukber-bersama-kir                   https://blog.wildanfauzy.com/bukber-bersama-kir
-/post https://blog.wildanfauzy.com
-/tags https://blog.wildanfauzy.com
-/categories https://blog.wildanfauzy.com
-/page/* https://blog.wildanfauzy.com
-/tags/* https://blog.wildanfauzy.com
-/blog https://blog.wildanfauzy.com
-/status https://status.wildanfauzy.com
-/perpus https://perpus.wildanfauzy.com
-/notes https://notes.wildanfauzy.com
-/babi https://babi.wildanfauzy.com
-
