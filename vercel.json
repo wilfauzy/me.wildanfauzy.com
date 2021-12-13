@@ -19,7 +19,7 @@
       "permanent": true
       "source": "/adu-cepat-vercel-netlify-dan-cloudflare",
       "destination": "https://blog.wildanfauzy.com/adu-cepat-vercel-netlify-dan-cloudflare", 
-      "permanent": true
+      "permanent": true 
     }
   ]
 }
