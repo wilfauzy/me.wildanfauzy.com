@@ -1,2 +1,0 @@
-# beranda
-portofolio using gatsby 
