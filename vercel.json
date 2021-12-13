@@ -1,9 +1,0 @@
-{
-  "rewrites": [
-    { 
-      "source": "/*",
-      "destination": "https://blog.wildanfauzy.com", 
-      "permanent": true
-    }
-  ]
-}
