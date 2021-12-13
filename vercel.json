@@ -4,6 +4,22 @@
       "source": "/blog",
       "destination": "https://blog.wildanfauzy.com", 
       "permanent": true
+      "source": "/gutenberg",
+      "destination": "https://blog.wildanfauzy.com/gutenberg", 
+      "permanent": true
+      "source": "/entah",
+      "destination": "https://blog.wildanfauzy.com/entah", 
+      "permanent": true
+      "source": "/mengapa",
+      "destination": "https://blog.wildanfauzy.com/mengapa", 
+      "permanent": true
+      "permanent": true
+      "source": "/membuat-blog-hugo-di-firebase-hosting",
+      "destination": "https://blog.wildanfauzy.com/membuat-blog-hugo-di-firebase-hosting", 
+      "permanent": true
+      "source": "/adu-cepat-vercel-netlify-dan-cloudflare",
+      "destination": "https://blog.wildanfauzy.com/adu-cepat-vercel-netlify-dan-cloudflare", 
+      "permanent": true
     }
   ]
 }
