@@ -1,4 +1,4 @@
-# Tentang  [Blog](https://wildanfauzy.com/ "WildanFauzy.com")
+# Tentang  [WildanFauzy.com](https://wildanfauzy.com/ "WildanFauzy.com")
 
 ![](https://raw.githubusercontent.com/NgopiBrek/WildanFauzy.com/main/ss.PNG)
 
