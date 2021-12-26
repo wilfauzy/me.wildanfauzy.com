@@ -1,8 +1,8 @@
-# Tentang  [Blog](https://blog.wildanfauzy.com/ "Blog")
+# Tentang  [Blog](https://wildanfauzy.com/ "WildanFauzy.com")
 
 ![](https://raw.githubusercontent.com/NgopiBrek/WildanFauzy.com/main/ss.PNG)
 
-Wildan Fauzy Blog adalah media santai dan asik nomor satu di indonesia, membahas hal yang tidak terlalu penting menjadi penting hahahah yang mewadahi tulisan yang mempunyai semangat dan kreativitas, dan hanya untuk sekedar hiburan melewati hiruk pikuk dunia.
+WildanFauzy.com adalah media santai dan asik nomor satu di indonesia, membahas hal yang tidak terlalu penting menjadi penting hahahah yang mewadahi tulisan yang mempunyai semangat dan kreativitas, dan hanya untuk sekedar hiburan melewati hiruk pikuk dunia.
 
 Wildan Fauzy Blog saat ini menerbitkan artikel dan dengan pilihan tema yang beragam. Ada 6 kategori yang terdiri dari **Cerita Pendek (cerpen) Note (catatan) Share (berbagi hal yang cukup menarik) Travel (jalan-jalan) Buku (ulasan buku) dan Linux (membahas segala hal tentang linux)** .
 
@@ -55,7 +55,7 @@ List diatas membantu berjalannya blog ini mengudara di jagat dunia maya 🙂
 * (on going) sedang mencoba vps vultr dan cloud kilat dalam satu bulan, hosting unlimited rumahweb tiga bulan, dan dhyhost.
 * (3 des 2020) Pindah ke static generator jekyll dari sebelumnya menggunakan wordpress self hosted
 * (13 oktober 2021) pindah dari cloudflare pages ke netlify karena build times di cloudflare pages cukup lama, memilih netlify yang lebih cepat tidak memakan waktu satu menit sedangkan di cloudflare pages 2 menit lebih kadang bisa sampai setengah jam, sekarang menggunakan ssg hugo tidak lagi menggunakan jekyll
-* (12 desember 2021) menggunakan layanan dari vercel
+* (12 desember 2021) menggunakan layanan dari netlify
 
 Mungkin cukup segitu perjalanan singkat website ini, ada beberapa blog yang menggunakan platform blogger dan wordpress.com tapi lupa password jadi enggak bisa dibuka 😀
 
