@@ -274,3 +274,4 @@
 /status https://status.wildanfauzy.com 301
 /perpus https://perpus.wildanfauzy.com 301
 /babi   https://babi.wildanfauzy.com 301
+/img/*  https://babi.wildanfauzy.com/img/*
