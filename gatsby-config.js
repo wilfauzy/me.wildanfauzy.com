@@ -9,7 +9,7 @@ module.exports = {
         siteTitle: `Wildan Fauzy`,
     siteTitleAlt: `Wildan Fauzy`,
     siteHeadline: `Wildan Fauzy`,
-    siteUrl: `https://wildanfauzy.com`,
+    siteUrl: `https://wilfauzy.com`,
     siteDescription: `my name wildan fauzy just call me idan or aidan`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
@@ -31,7 +31,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-react-helmet-canonical-urls`,
       options: {
-        siteUrl: `https://wildanfauzy.com`,
+        siteUrl: `https://wilfauzy.com`,
       },
     },
     {
