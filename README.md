@@ -1,4 +1,4 @@
-# Tentang  [WildanFauzy.com](https://wildanfauzy.com/ "WildanFauzy.com")
+# Tentang  [WilFauzy.com](https://wilfauzy.com/ "WilFauzy.com")
 
 ![](https://raw.githubusercontent.com/NgopiBrek/WildanFauzy.com/main/ss.PNG)
 
